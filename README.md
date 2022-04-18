@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Damla</h1>
-- 🔭 I’m currently working on **Web Programming.**
+- 🔭 I’m currently working on **Web Development.**
 
-- 🌱 I’m currently learning **Web Programming.**
+- 🌱 I’m currently learning **Web and Mobile Development.**
 
 - ⚡ Fun fact **I love drawing and reading.**
 
