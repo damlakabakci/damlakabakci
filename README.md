@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Damla</h1>
+
 - 🔭 I’m currently working on **Web Development.**
 
 - 🌱 I’m currently learning **Web and Mobile Development.**
 
-- ⚡ Fun fact **I love drawing and reading.**
+- ⚡ Fun fact : **I love drawing and reading.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
